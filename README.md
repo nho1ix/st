@@ -10,10 +10,10 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 
 ## Bindings for
 
-+ **scrollback** with `win-↑/↓` or `alt-pageup/down` or `shift` while scrolling the mouse
-+ OR **vim-bindings**: scroll up/down in history with `win-k` and `alt-j`. Faster with `alt-u`/`alt-d`.
++ **scrollback** with `win-↑/↓` or `win-pageup/down` or `shift` while scrolling the mouse
++ OR **vim-bindings**: scroll up/down in history with `win-k` and `win-j`. Faster with `alt-u`/`alt-d`.
 + **zoom/change font size**: same bindings as above, but holding down shift as well. `win-home` returns to default
-+ **copy text** with `win-c`, **paste** is `alt-v` or `shift-insert`
++ **copy text** with `win-c`, **paste** is `win-v` or `shift-insert`
 
 ## Pretty stuff
 

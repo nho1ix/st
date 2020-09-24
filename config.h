@@ -5,6 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
+// static char *font = "Hermit:pixelsize=14:antialias=true:autohint=true";
 static char *font = "Hermit:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { "font-awesome:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 1;

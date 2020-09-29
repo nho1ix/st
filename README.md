@@ -1,4 +1,4 @@
-# Modified version of Luke's build of st - the simple (suckless) terminal
+# Modified version of Luke's build of st - the simple (suckless) terminal <img alt="Visits" align="right" src="https://badges.pufler.dev/visits/nho1ix/st"/>
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features that make it literally the best terminal emulator ever:
 

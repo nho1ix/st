@@ -3,3 +3,7 @@ patches/
 *.o
 st
 *.orig
+Xdefaults.bak
+config.h.bfmerge
+x.c.x
+x.cb

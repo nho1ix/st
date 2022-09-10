@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "JetBrainsMono Nerd Font:style:medium:pixelsize=15";
+static char *font = "JetBrainsMono Nerd Font:style:Medium Regular:pixelsize=15";
 static char *font2[] = { "font-awesome:pixelsize=10:antialias=true:autohint=true" };
 static int borderpx = 1;
 

@@ -1,4 +1,4 @@
-# Modified version of Luke's build of st - the simple (suckless) terminal <a href="https://hits.seeyoufarm.com"><img alt="visits" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnho1ix%2Fdwm&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+# Modified version of Luke's build of st - the simple (suckless) terminal <a href="https://hits.seeyoufarm.com"><img alt="visits" align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnho1ix%2Fst&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional
 features that make it literally the best terminal emulator ever:

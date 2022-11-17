@@ -11,12 +11,12 @@ all: options st
 
 options:
 	@echo st build options:
-	@echo "CFLAGS  = $(STCFLAGS)"
+	@echo "CFLAGS  = -03 $(filter-out -Os,$(STCFLAGS))"
 	@echo "LDFLAGS = $(STLDFLAGS)"
 	@echo "CC      = $(CC)"
 
 .c.o:
-	$(CC) $(STCFLAGS) -c $<
+	$(CC) -03 $(filter-out -Os,$(STCFLAGS)) -c $<
 
 st.o: config.h st.h win.h
 x.o: arg.h config.h st.h win.h hb.h

@@ -16,7 +16,7 @@ options:
 	@echo "CC      = $(CC)"
 
 .c.o:
-	$(CC) -03 $(filter-out -Os,$(STCFLAGS)) -c $<
+	$(CC) $(filter-out -Os,$(STCFLAGS)) -c $<
 
 st.o: config.h st.h win.h
 x.o: arg.h config.h st.h win.h hb.h

@@ -6,9 +6,10 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "JetBrainsMono NFM:style=Medium:pixelsize=23";
-static char *font2[] = { "Font Awesome 6 Free Regular:style=Regular" };
-static int borderpx = 1;
+static char *font = "JetBrainsMono NFM:style=Medium:pixelsize=25";
+static char *font2[] = { "Apple Color Emoji:style=Regular" };
+static char *font3[] = { "Font Awesome 6 Free Regular:style=Regular" };
+static int borderpx = 0;
 
 /*
  * What program is execed by st depends of these precedence rules:

@@ -6,7 +6,9 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "JetBrainsMono NFM:style=Medium:pixelsize=25";
+// static char *font = "JetBrainsMono NFM:style=Medium:pixelsize=25";
+// static char *font = "Iosevka:style=Medium:pixelsize=28";
+static char *font = "Iosevka,Iosevka Medium Extended:style=Medium Extended,Regular:pixelsize=28";
 static char *font2[] = { "Apple Color Emoji:style=Regular" };
 static char *font3[] = { "Font Awesome 6 Free Regular:style=Regular" };
 static int borderpx = 0;

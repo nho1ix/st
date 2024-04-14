@@ -8,9 +8,8 @@
 
 // static char *font = "JetBrainsMono NFM:style=Medium:pixelsize=25";
 // static char *font = "Iosevka:style=Medium:pixelsize=28";
-static char *font = "Iosevka,Iosevka Medium Extended:style=Medium Extended,Regular:pixelsize=28";
-static char *font2[] = { "Apple Color Emoji:style=Regular" };
-static char *font3[] = { "Font Awesome 6 Free Regular:style=Regular" };
+static char *font = "Iosevka,Iosevka Medium Extended:style=Medium Extended,Regular:pixelsize=28:antialias=true:autohint=true";
+static char *font2[] = { "Apple Color Emoji:style=Regular:antialias=true:autohint=true" };
 static int borderpx = 0;
 
 /*
